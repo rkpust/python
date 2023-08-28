@@ -46,3 +46,15 @@ In Python, variables are created when you assign a value to it:
 Example: variables.py
 
 Python has no command for declaring a variable.
+
+
+Comments
+----------------------
+Python has commenting capability for the purpose of in-code documentation.
+
+Comments start with a #, and Python will render the rest of the line as a comment: 
+
+Example
+
+#This is a comment.
+print("Hello, World!")
