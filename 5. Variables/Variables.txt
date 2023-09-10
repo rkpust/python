@@ -13,3 +13,10 @@ Variables do not need to be declared with any particular type, and can even chan
 been set.
 
 Example: variables.py
+
+
+Casting
+------------------------
+If you want to specify the data type of a variable, this can be done with casting.
+
+Example: variables.py
