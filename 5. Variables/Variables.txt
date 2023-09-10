@@ -20,3 +20,8 @@ Casting
 If you want to specify the data type of a variable, this can be done with casting.
 
 Example: variables.py
+
+
+Get the Type
+-------------------
+You can get the data type of a variable with the type() function.
