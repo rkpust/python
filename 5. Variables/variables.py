@@ -20,3 +20,10 @@ a = 5
 c = "John"
 print(type(a))
 print(type(c))
+
+print("\n")
+d = "John"
+# is the same as
+e = 'John'
+print(d)
+print(e)

@@ -25,3 +25,10 @@ Example: variables.py
 Get the Type
 -------------------
 You can get the data type of a variable with the type() function.
+
+Example: variables.py
+
+Single or Double Quotes?
+--------------------------------
+String variables can be declared either by using single or double quotes:
+Example: variables.py
