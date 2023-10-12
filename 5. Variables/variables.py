@@ -27,3 +27,11 @@ d = "John"
 e = 'John'
 print(d)
 print(e)
+
+#Case-Sensitive
+f = 4
+F = "Sally" #F will not overwrite f
+
+print("\n")
+print(f)
+print(F)
